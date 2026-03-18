@@ -58,6 +58,9 @@ This project helped me improve:
 
 ---
 
+## 📷 Dashboard Preview
+![Dashboard](https://raw.githubusercontent.com/basavaraj63620/zomato-data-analysis/main/Screenshot%202026-03-18%20210911.png)
+
 ## 👨‍💻 Author
 
 **Basavaraj Jadhav**
